@@ -24,7 +24,7 @@ This screen recording previews the look and feel of a completed project that mee
 
 This project uses the **pokeapi.co API** ([API Documentation](https://pokeapi.co/docs/v2.html)). Use this API to search for pokemons and retrieve their information.
 
-**NOTE:** This API has gone down in the past. If this happens to you while taking the sprint challenge, use this url as your base URL: http://poke-api.vapor.cloud/. Note that you will have to add the same path components onto that URL that the original API's base URL has.
+**NOTE:** This API has gone down in the past. If this happens to you while taking the sprint challenge, use this url as your base URL: https://lambdapokeapi.herokuapp.com. Note that you will have to add the same path components onto that URL that the original API's base URL has.
 
 The requirements for this project are as follows:
 
